@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(86, 86, 86);
+}
+
+h1{
+    color: white;
+    padding-left: 485px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.skill{
+    padding-left: 210px;
+}
+
+.skill a{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:  none;
+    color:black;
+    background: rgb(172, 167, 164);
+    margin: 21px;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+.linkedin{
+    padding: 13px 350px;
+}
+
+.github{
+    padding: 13px 358px;
+}
+
+.codechef{
+    padding: 13px 345px;
+}
+
+.leetcode{
+    padding: 13px 345px;
+}
+
+.hackerrank{
+    padding: 13px 333px;
+}
